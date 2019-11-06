@@ -2,8 +2,6 @@
 
 ##### 语法规范
 
-![image-20191105093800290](C:\Users\AIone_\AppData\Roaming\Typora\typora-user-images\image-20191105093800290.png)
-
 
 
 #### CSS选择器
